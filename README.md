@@ -1,9 +1,7 @@
 # campeonado_kaggle_2025
-Desenvolvimento de um modelo de machine learning para prever o sucesso de startups. O objetivo é identificar quais empresas têm maior probabilidade de se tornarem casos de sucesso no mercado.
+Desenvolvimento de um modelo de machine learning para **prever se uma startup terá sucesso (ativa/adquirida) ou não (fechada).**
 
 O conjunto de dados foi adaptado para fins educacionais e busca promover aprendizado prático em empreendedorismo e modelagem preditiva.
-
-- Objetivo: **prever se uma startup terá sucesso (ativa/adquirida) ou não (fechada).**
 
 ### Base de dados
 
@@ -16,7 +14,6 @@ O conjunto de dados foi adaptado para fins educacionais e busca promover aprendi
 - test.csv → conjunto de teste (sem a coluna alvo)
 
 - Observações gerais:
-    - Colunas age_* podem ter NaN (evento não ocorreu).
     - category_code é uma variável categórica bruta.
     - As demais dummies são binárias 0/1.
 
