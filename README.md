@@ -3,6 +3,8 @@ Desenvolvimento de um modelo de machine learning para **prever se uma startup te
 
 O conjunto de dados foi adaptado para fins educacionais e busca promover aprendizado prático em empreendedorismo e modelagem preditiva.
 
+O modelo deve atingir uma acurácia mínima de 80% para ser considerado bem-sucedido
+
 ### Base de dados
 
 - Moderadamente desbalanceada
